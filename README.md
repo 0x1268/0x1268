@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/0x1268/0x1268/main/matrix-hacker.gif" width="1000"/>
+<img src="https://raw.githubusercontent.com/0x1268/0x1268/main/404soul-matrix-banner.gif" width="1000"/>
 </p>
 
 <p align="center">
