@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/0x1268/0x1268/main/404soul-matrix-banner.gif" width="1000"/>
+<img src="https://raw.githubusercontent.com/0x1268/0x1268/main/b27d635d02ae6adc823b5324edf47f4a.gif" width="1000"/>
 </p>
 
 <p align="center">
