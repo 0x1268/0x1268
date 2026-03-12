@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=1000&lines=Dark+Cloud+Cover;Web3+Builder;Automation+Engineer;Blockchain+Explorer;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=1000&lines=404+Soul;Web3+Builder;Automation+Engineer;Blockchain+Explorer;Always+Learning+🚀" />
 </p>
 
 ---
@@ -66,7 +66,7 @@
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="https://t.me/Gimmeeee">
+<a href="https://t.me/o0x1268">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
@@ -83,5 +83,5 @@
 ---
 
 <p align="center">
-⚡ Building the future of Web3 ⚡
+⚡ Exploring the future of Web3 ⚡
 </p>
