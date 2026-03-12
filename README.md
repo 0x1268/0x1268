@@ -1,16 +1,87 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Dark Cloud Cover</h1>
 
-<!--
-**0x1268/0x1268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Dark+Cloud+Cover;Web3+Builder;Blockchain+Explorer;Automation+Enthusiast;Always+Learning+🚀" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 🔗 Exploring **Web3 & Blockchain technologies**
+- 🤖 Interested in **automation tools and bots**
+- 🧠 Learning **smart contracts & decentralized systems**
+- 🚀 Building and experimenting with new ideas
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,solidity,git,github,docker,linux,vscode" />
+
+</p>
+
+---
+
+## 🔗 Web3 Interests
+
+- Smart Contracts  
+- DeFi Infrastructure  
+- Blockchain Tools  
+- Automation Bots  
+- Web3 APIs  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=0x1268&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=0x1268&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- Solidity Development  
+- Web3 Automation  
+- Smart Contract Security  
+- Blockchain Infrastructure  
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/0x1268">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://x.com/_0x1268">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://t.me/Gimmeeee">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 👀 Visitor Counter
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=0x1268&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+⭐ Exploring the future of **Web3 and decentralized technologies**
