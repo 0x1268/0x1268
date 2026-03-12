@@ -1,12 +1,6 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=1000&lines=Hi+I'm+Dark+Cloud+Cover;Web3+Builder;Automation+Engineer;Blockchain+Explorer;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=1000&lines=Dark+Cloud+Cover;Web3+Builder;Automation+Engineer;Blockchain+Explorer;Always+Learning+🚀" />
 </p>
-
----
-
-<h1 align="center" style="color:#39FF14;">
-Hi 👋 I'm Dark Cloud Cover
-</h1>
 
 ---
 
