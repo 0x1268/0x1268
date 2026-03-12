@@ -1,11 +1,9 @@
 <p align="center">
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="1000"/>
+<img src="https://raw.githubusercontent.com/0x1268/0x1268/main/matrix-hacker.gif" width="1000"/>
 </p>
 
 <p align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=42&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=1000&lines=404+Soul;Web3+Builder;Automation+Engineer;Blockchain+Explorer"/>
-
 </p>
 
 ---
