@@ -1,17 +1,21 @@
-<h1 align="center">Hi 👋 I'm Dark Cloud Cover</h1>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Dark+Cloud+Cover;Web3+Builder;Blockchain+Explorer;Automation+Enthusiast;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=1000&lines=Hi+I'm+Dark+Cloud+Cover;Web3+Builder;Automation+Engineer;Blockchain+Explorer;Always+Learning+🚀" />
 </p>
+
+---
+
+<h1 align="center" style="color:#39FF14;">
+Hi 👋 I'm Dark Cloud Cover
+</h1>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔗 Exploring **Web3 & Blockchain technologies**
-- 🤖 Interested in **automation tools and bots**
-- 🧠 Learning **smart contracts & decentralized systems**
-- 🚀 Building and experimenting with new ideas
+- 🌐 Exploring **Web3 & Blockchain**
+- 🤖 Building **Automation Tools**
+- 🔐 Learning **Smart Contract Security**
+- 🚀 Passionate about **decentralized technology**
 
 ---
 
@@ -79,9 +83,11 @@
 ## 👀 Visitor Counter
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=0x1268&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=0x1268&label=Profile%20views&color=39FF14&style=flat"/>
 </p>
 
 ---
 
-⭐ Exploring the future of **Web3 and decentralized technologies**
+<p align="center">
+⚡ Building the future of Web3 ⚡
+</p>
